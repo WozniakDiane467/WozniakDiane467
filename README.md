@@ -1,29 +1,61 @@
-# Hi there 👋
+# Hi，我是「jack」 👨‍💻
 
-Just a developer learning and building stuff.
+> 全栈工程师。前端能写、后端能扛、服务器上能把它跑起来。
+> 喜欢简单直接的方案，讨厌为了炫技而增加的复杂度。
 
-## What I'm working on
+**一句话概括我：** 能把一句模糊的需求，拆成表结构、写成界面、再部署上线的人。
 
-- 🔧 A CLI tool for batch file processing
-- 📚 Notes and experiments with graph-based workflows
-- 🎮 A small web game built with vanilla JS
+---
 
-## Tech Stack
+## 🧱 我的技术栈
 
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
+| 层 | 常用 |
+| --- | --- |
+| **前端** | `React` `Next.js` `TypeScript` `Tailwind CSS` `Vite` |
+| **后端** | `Node.js` `Python` `FastAPI` `REST` `WebSocket` |
+| **数据** | `PostgreSQL` `Redis` `Prisma` `SQLite` |
+| **交付** | `Docker` `Nginx` `CI/CD` `Vercel` `阿里云` |
 
-## Projects
+---
 
-| Project | Description |
-|---|---|
-| [file-tool](https://github.com/WozniakDiane467/file-tool) | Batch rename & organize files |
-| [graph-demo](https://github.com/WozniakDiane467/graph-demo) | Learning graph workflows |
-| [js-game](https://github.com/WozniakDiane467/js-game) | Browser-based mini game |
+## 🚀 我最近在做
 
-## Find Me
+| 项目 | 做了什么 | 技术 |
+| --- | --- | --- |
+| **AI Agent 桌面应用** | 本地优先的对话与任务执行客户端 | Electron + React + TS |
+| **多 Agent 协作平台** | 一个调度器分配任务，多个执行端并行干活 | Node.js + WebSocket |
+| **文件整理工具** | 规则引擎 + AI 归类建议 + 可撤销操作 | Python + PySide6 |
+| **若干内部工具** | 数据看板、自动化脚本、接口对接 | Next.js + FastAPI |
 
-- 🌐 GitHub: [@WozniakDiane467](https://github.com/WozniakDiane467)
-- 📍 Berlin, Germany
+---
+
+## 🧠 我怎么做技术选型
+
+写代码的时间只占三分之一，剩下三分之二在维护。所以我的默认倾向是：
+
+- **能用的现成方案，绝不自己造。**&#8203; 自研的前提是现成的真的不够用。
+- **先跑通，再优化。**&#8203; 过早优化是给未来的自己挖坑。
+- **抽象等到第三次重复再抽。**&#8203; 两次是巧合，三次才是模式。
+- **类型和日志比注释可靠。**&#8203; 注释会说谎，编译器不会。
+- **删代码比加代码更需要勇气。**&#8203; 没被删过的项目，通常也没被认真维护过。
+
+---
+
+## 📌 我最近在琢磨
+
+- 全栈项目里，前后端边界到底该画在哪
+- 小团队怎么用最少的运维成本活下来
+- AI 写代码之后，"工程师"这个角色的重心往哪移
+- 怎么把一次性的脚本，变成能长期跑的服务
+
+---
+
+## 📫 找到我
+
+- **邮箱** · `你的邮箱@example.com`
+- **GitHub** · [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
+- **博客** · `你的博客链接`
+
+---
+
+*好的代码是写给下一个接手的人看的，那个人通常是我自己。*
